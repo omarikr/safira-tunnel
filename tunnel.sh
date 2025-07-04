@@ -3,7 +3,7 @@ aLSO how'd i configure this
 
 # TunnelBeam - Lightweight SSH reverse port forwarder with CLI commands
 
-REMOTE_SERVER="tunnel.voidhost.pro"
+REMOTE_SERVER="tunnel.flexnodes.uk"
 REMOTE_USER="root"
 REMOTE_PORT="65535"
 
